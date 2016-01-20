@@ -1,0 +1,14 @@
+section{
+	padding-left: 10%;
+	padding-right:10%;
+	width: 50%;
+	float: left;
+	text-align: justify;
+}
+header{
+	width: 100%;
+	text-align: center;
+}
+aside{
+	padding: 20px;
+}
